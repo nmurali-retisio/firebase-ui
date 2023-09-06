@@ -9,13 +9,7 @@ import { getDatabase, ref, onValue } from "firebase/database";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBDxR4EWvwoDJ-UwzVR5Z-DlbtT43paAgI",
-  authDomain: "fir-test-a3fe8.firebaseapp.com",
-  databaseURL: "https://fir-test-a3fe8-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "fir-test-a3fe8",
-  storageBucket: "fir-test-a3fe8.appspot.com",
-  messagingSenderId: "319964364315",
-  appId: "1:319964364315:web:074502f8bf111eda2302be"
+  // Enter your config object from firebase console
 };
 
 // Initialize Firebase
